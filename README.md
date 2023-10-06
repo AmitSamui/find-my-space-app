@@ -10,6 +10,13 @@ FindMyGarage is an innovative, AI-powered parking solution that revolutionizes t
 ## Features
 FindMyGarage offers the following features:
 
+<div align=center >
+    <h4> Watch The Demo by clicking on the image </h4>
+<a align=center href="https://drive.google.com/file/d/1I59uyOhbwx6N9AuvskwUq8yPru-tYYbK/view?usp=drive_link" target="_blank">
+    <img height="300px" src="https://res.cloudinary.com/dlavfwfuo/image/upload/v1696255688/Desktop_-_1_ktzhsd.webp"/>
+</a>
+</div>
+
 - Automatic Parking Accommodation/Allocation based on Location
 FindMyGarage uses advanced AI algorithms to automatically allocate parking spaces based on the user's location. By leveraging real-time data and predictive analytics, FindMyGarage optimizes parking allocation and ensures efficient space utilization.
 
