@@ -1,6 +1,7 @@
 <div align=center >
-<a align=center href="#" target="_blank">
-    <img width="200px" src="./fml-logo.jpeg"/>
+<h5>Click on the image to see other repos </h5>
+<a align=center href="https://github.com/FindMyGarage" target="_blank">
+    <img width="200px" src="https://res.cloudinary.com/dlavfwfuo/image/upload/v1696566058/fml-logo_f2wo2f.jpg"/>
 </a>
 </div>
 
